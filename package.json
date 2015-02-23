@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "async": "~0.2.10",
-    "aws-sdk": "~v2.0.18",
+    "aws-sdk": "^v2.1.13",
     "underscore": "~1.6.0",
     "mime": "~1.2.11"
   },
